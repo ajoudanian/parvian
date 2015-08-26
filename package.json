@@ -1,0 +1,22 @@
+{
+  "name": "parvian",
+  "version": "1.0.0",
+  "description": "Parvian Project ==============",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ajoudanian/parvian.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajoudanian/parvian/issues"
+  },
+  "homepage": "https://github.com/ajoudanian/parvian#readme",
+  "dependencies": {
+    "bower": "^1.5.2"
+  }
+}
